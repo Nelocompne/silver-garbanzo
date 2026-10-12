@@ -1,8 +1,8 @@
 # Jekyll
-theme: Gurodoku
+theme: linkhub-jekyll-theme
 
 # Site Configuration
-name: Linkhub  # Name of your website
+name: Gurodoku  # Name of your website
 tagline: Links  # Set your preferred page title
 description: A free, open-source Jekyll link-in-bio theme.  # Also used as a meta description
 favicon:
