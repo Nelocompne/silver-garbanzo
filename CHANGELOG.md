@@ -31,3 +31,6 @@
 - Fixed favicon image type.
 - Added option to set fixed button width.
 - Added option to set icon position to left or right.
+
+# Unreleased
+- Updated the Pages workflow to use maintained `ruby/setup-ruby@v1` and Ruby 3.4 instead of the pinned v1.146.0 action and Ruby 3.1.
