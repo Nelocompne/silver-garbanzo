@@ -3,8 +3,8 @@ icon-position: left # Set to left/right
 buttons:
   - category: Blogs
     items:
-    - title: Example
-      url: https://www.example.com
+    - title: 数字花园
+      url: https://quartz.gurodoku.xyz
       icon: tdesign:activity # Icons are optional
       tag: Tag
 
