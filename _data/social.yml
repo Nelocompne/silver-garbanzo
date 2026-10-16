@@ -3,3 +3,7 @@
   icon: ri:mastodon-fill
   color: '#6364FF'
 
+- name: github
+  url: https://github.com/Nelocompne
+  icon: ri:github-fill
+  color: '#000000'
